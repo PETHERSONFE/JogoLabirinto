@@ -103,3 +103,4 @@ public class LabirintoGame {
         sc.close();
     }
 }
+
